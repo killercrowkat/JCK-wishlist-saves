@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://www.primark.com/en-gb/p/2pk-regular-fit-t-shirts-white-991116363002",
+    "title": "2pk Regular Fit T-Shirts",
+    "price": 5,
+    "image": "https://cdn.media.amplience.net/i/primark/991116363002_01?$articleimages-regulardesktop$&fmt=auto",
+    "store": "Primark",
+    "type": "T-Shirt",
+    "id": "002a9f48-1784-40e0-a177-a9ea0e2b731e",
+    "addedAt": 1762951632936
+  },
+  {
+    "url": "https://www.primark.com/en-gb/p/2pk-regular-fit-t-shirts-black-991116363804",
+    "title": "2pk Regular Fit T-Shirts",
+    "price": 5,
+    "image": "https://cdn.media.amplience.net/i/primark/991116363804_01?$articleimages-regulardesktop$&fmt=auto",
+    "store": "Primark",
+    "type": "T-Shirt",
+    "id": "22667aa6-fda3-4b00-a0ac-455aab64ef03",
+    "addedAt": 1762951581718
+  },
+  {
+    "url": "https://www.boohooman.com/oversized-graphic-washed--zip-through-hoodie/CMM15372.html?color=105",
+    "title": "Oversized Graphic Washed Zip Through Hoodie | boohooMAN UK",
+    "price": 24.5,
+    "image": "https://mediahub.boohooman.com/cmm15372_black_xl?pdp.template",
+    "store": "Boohoo Man",
+    "type": "Hoodie",
+    "id": "16216e63-4e1f-4c4a-b111-29794258cfcc",
+    "addedAt": 1762859234038
+  },
+  {
+    "url": "https://www.boohooman.com/black-oversized-nirvana-acid-wash-license-t-shirt/CMM18630.html?color=105",
+    "title": "Black Oversized Nirvana Acid Wash License T-Shirt | boohooMAN UK",
+    "price": 14,
+    "image": "https://mediahub.boohooman.com/cmm18630_black_xl?pdp.template",
+    "store": "Boohoo Man",
+    "type": "T-Shirt",
+    "id": "5302ac02-1fee-43af-bdcf-332d5522e31d",
+    "addedAt": 1762859215892
+  },
+  {
+    "url": "https://www.boohooman.com/washed-charcoal-oversized-worldwide-renaissance-printed-hoodie/CMM22132.html?color=9065",
+    "title": "Washed Charcoal Oversized Worldwide Renaissance Printed Hoodie | boohooMAN UK",
+    "price": 21,
+    "image": "https://mediahub.boohooman.com/cmm22132_washed%20charcoal_xl/washed-charcoal-oversized-worldwide-renaissance-printed-hoodie?qlt=85&w=556&h=0&fit=ctn&fmt=auto",
+    "store": "Boohoo Man",
+    "type": "Hoodie",
+    "id": "3dbec3dd-0071-436a-83f4-4d1f672cacdb",
+    "addedAt": 1762859194129
+  },
+  {
+    "url": "https://www.boohooman.com/tall-oversized-renaissance-print-washed-print-t-shirt/CMM13245.html?color=115",
+    "title": "Tall Oversized Renaissance Print Washed Print T-Shirt | boohooMAN UK",
+    "price": 14,
+    "image": "https://mediahub.boohooman.com/cmm13245_charcoal_xl?pdp.template",
+    "store": "Boohoo Man",
+    "type": "T-Shirt",
+    "id": "90c3d01b-6d7e-43df-bbf1-c464564723fb",
+    "addedAt": 1762858848340
+  },
+  {
+    "url": "https://www.tesco.com/groceries/en-GB/products/318107048",
+    "title": "F&F Pure Cotton Regular Fit Short Sleeved T-Shirt in White",
+    "price": 5,
+    "image": "https://digitalcontent.api.tesco.com/v2/media/ghs/a1bda819-b412-4d93-9e48-2dff01cb9b90/906-4459_M_01_1663868356.jpeg?h=1200&w=960",
+    "store": "Tesco",
+    "type": "T-Shirt",
+    "id": "4ba3fe22-8f3f-4181-bedb-a21d9664621c",
+    "addedAt": 1762858387633
+  },
+  {
+    "url": "https://www.boohooman.com/charcoal-oversized-washed-limited-edition-western-printed-hoodie/CMM19956.html?color=115",
+    "title": "Charcoal Oversized Washed Limited Edition Western Printed Hoodie | boohooMAN UK",
+    "price": 13,
+    "image": "https://mediahub.boohooman.com/cmm19956_charcoal_xl?pdp.template",
+    "store": "Boohoo Man",
+    "type": "Hoodie",
+    "id": "6d5891ae-e06b-48ee-9623-c6593dc4de8d",
+    "addedAt": 1762858091337
+  },
+  {
+    "url": "https://www.boohooman.com/charcoal-oversized-official-gothic-exposed-seams-washed-distressed-graphic-t-shirt/CMM20687.html?color=9065",
+    "title": "Charcoal Oversized Official Gothic Exposed Seams Washed Distressed Graphic T-Shirt | boohooMAN UK",
+    "price": 12.6,
+    "image": "https://mediahub.boohooman.com/cmm20687_washed%2520charcoal_xl?pdp.template",
+    "store": "Boohoo Man",
+    "type": "T-Shirt",
+    "id": "b712250e-69ab-4692-bbd0-6bfbccad0255",
+    "addedAt": 1762857722809
+  },
+  {
+    "url": "https://www.tesco.com/groceries/en-GB/products/318107590",
+    "title": "Product F&F Pure Cotton Regular Fit Crew Neck T-Shirt in Black",
+    "price": 5,
+    "image": "https://digitalcontent.api.tesco.com/v2/media/ghs/be691fd0-213f-4d3d-9c84-f49de2ba936d/906-4298_M_02_1935095175.jpeg?h=1200&w=960",
+    "store": "Tesco",
+    "type": "T-Shirt",
+    "id": "04fecc3e-0916-41c8-816e-207a0cc11494",
+    "addedAt": 1762857699461
+  }
+]
