@@ -17,7 +17,7 @@ You can use the files in this repository to auto-populate your own wishlist with
 
 ## 📑 Available Lists
 * **Main Wishlist:** The primary collection of trending items.
-* *(Add other list descriptions here as you create them)*
+
 
 ## 🛠️ Contributing
 If you have a wishlist you'd like to share publicly, feel free to submit a Pull Request with your exported JSON file!
